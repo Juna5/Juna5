@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Junaedi</h1>
 <h3 align="center">I am a software engineer</h3>
 
-- 🌱 I’m currently learning **NextJs and Flutter**
+- 🌱 I’m currently learning **Next.Js, Express.Js and Flutter**
 
 - 📫 How to reach me **junaedi.junz@gmail.com**
 
