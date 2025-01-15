@@ -1,5 +1,5 @@
 <h1></h1>Hey There! 👋</h1>
-<h3><span style="font-weight:bold">I'm Junaedi</span> - I'm a software engineer</h3>
+<h3><span style="font-weight:bold">I'm Juna</span> - I'm a software engineer</h3>
 
 - 🌱 I’m currently learning **Next.Js, Express.Js and Flutter**
 
